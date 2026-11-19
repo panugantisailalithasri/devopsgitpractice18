@@ -1,2 +1,2 @@
 
-This is fileb.txt
+ This is fileb.txt
